@@ -36,7 +36,7 @@ gulp.task('bs-reload', function (done) {
 //path 作成(sassコンパイル用)
 const paths = {
   'src': {
-    'scss': './src/style.scss',
+    'scss': './assets/style.scss',
   },
   'dist': {
     'css': './dist/css/',

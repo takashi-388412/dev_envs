@@ -5,7 +5,7 @@ module.exports = {
   // mode: "development",
 
   // メインのJS
-  entry: "./src/app.js",
+  entry: "./assets/app.js",
 
   // 出力ファイル名
   output: {
